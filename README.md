@@ -8,5 +8,4 @@ Once approved , it picks photo from camera and map from google map for android a
 <img width="200" height="440" alt="Screenshot 2025-10-02 at 2 04 23 PM" src="https://github.com/user-attachments/assets/e82de1b4-76f2-472c-a5c1-8bd29fa0f298" />
 <img width="200" height="440" alt="Screenshot 2025-10-02 at 2 04 41 PM" src="https://github.com/user-attachments/assets/8a6fcb6a-2c8f-4761-913a-a5321d06dac8" />
 <img width="200" height="440" alt="Screenshot 2025-10-02 at 2 04 51 PM" src="https://github.com/user-attachments/assets/5733dbd5-4120-451c-98e1-21896dcd18d9" />
-<img width="200" height="440" alt="Screenshot 2025-10-02 at 2 05 01 PM" src="https://github.com/user-attachments/assets/00d14e78-6175-40aa-ac2f-49087c0bc642" />
 
